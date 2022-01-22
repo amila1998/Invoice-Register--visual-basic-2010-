@@ -1,0 +1,76 @@
+C:\Users\Amila Devin\Desktop\Invoice Register\Invoice Register\bin\Release\Invoice Register DataBase.accdb
+C:\Users\Amila Devin\Desktop\Invoice Register\Invoice Register\obj\x86\Release\Invoice_Register.Form1.resources
+C:\Users\Amila Devin\Desktop\Invoice Register\Invoice Register\obj\x86\Release\Invoice_Register.Form2.resources
+C:\Users\Amila Devin\Desktop\Invoice Register\Invoice Register\obj\x86\Release\Invoice_Register.Form3.resources
+C:\Users\Amila Devin\Desktop\Invoice Register\Invoice Register\obj\x86\Release\Invoice_Register.Form4.resources
+C:\Users\Amila Devin\Desktop\Invoice Register\Invoice Register\obj\x86\Release\Invoice_Register.Form5.resources
+C:\Users\Amila Devin\Desktop\Invoice Register\Invoice Register\obj\x86\Release\Invoice_Register.Resources.resources
+C:\Users\Amila Devin\Desktop\Invoice Register\Invoice Register\obj\x86\Release\Invoice Register.vbproj.GenerateResource.Cache
+C:\Users\Amila Devin\Desktop\Invoice Register\Invoice Register\obj\x86\Release\Invoice Register.vbprojResolveAssemblyReference.cache
+C:\Users\Amila Devin\Desktop\Invoice Register\Invoice Register\bin\Release\Invoice Register 2.0.exe.config
+C:\Users\Amila Devin\Desktop\Invoice Register\Invoice Register\bin\Release\Invoice Register 2.0.exe
+C:\Users\Amila Devin\Desktop\Invoice Register\Invoice Register\bin\Release\Invoice Register 2.0.pdb
+C:\Users\Amila Devin\Desktop\Invoice Register\Invoice Register\bin\Release\Invoice Register 2.0.xml
+C:\Users\Amila Devin\Desktop\Invoice Register\Invoice Register\obj\x86\Release\Invoice Register 2.0.exe
+C:\Users\Amila Devin\Desktop\Invoice Register\Invoice Register\obj\x86\Release\Invoice Register 2.0.xml
+C:\Users\Amila Devin\Desktop\Invoice Register\Invoice Register\obj\x86\Release\Invoice Register 2.0.pdb
+D:\My Projects\VB\Invoice Register\Invoice Register\bin\Release\Invoice Register 2.0.exe.config
+D:\My Projects\VB\Invoice Register\Invoice Register\obj\x86\Release\Invoice Register 2.0.exe
+D:\My Projects\VB\Invoice Register\Invoice Register\obj\x86\Release\Invoice Register 2.0.xml
+D:\My Projects\VB\Invoice Register\Invoice Register\obj\x86\Release\Invoice Register 2.0.pdb
+D:\My Projects\VB\Invoice Register\Invoice Register\bin\Release\Invoice Register DataBase.accdb
+D:\My Projects\VB\Invoice Register\Invoice Register\bin\Release\Invoice Register 2.0.exe
+D:\My Projects\VB\Invoice Register\Invoice Register\bin\Release\Invoice Register 2.0.pdb
+D:\My Projects\VB\Invoice Register\Invoice Register\bin\Release\Invoice Register 2.0.xml
+D:\My Projects\VB\Invoice Register\Invoice Register\obj\x86\Release\Invoice Register.vbprojResolveAssemblyReference.cache
+D:\My Projects\VB\Invoice Register\Invoice Register\obj\x86\Release\Invoice_Register.Form1.resources
+D:\My Projects\VB\Invoice Register\Invoice Register\obj\x86\Release\Invoice_Register.Form2.resources
+D:\My Projects\VB\Invoice Register\Invoice Register\obj\x86\Release\Invoice_Register.Form3.resources
+D:\My Projects\VB\Invoice Register\Invoice Register\obj\x86\Release\Invoice_Register.Form4.resources
+D:\My Projects\VB\Invoice Register\Invoice Register\obj\x86\Release\Invoice_Register.Form5.resources
+D:\My Projects\VB\Invoice Register\Invoice Register\obj\x86\Release\Invoice_Register.Resources.resources
+D:\My Projects\VB\Invoice Register\Invoice Register\obj\x86\Release\Invoice Register.vbproj.GenerateResource.Cache
+D:\My Projects\VB\Invoice Register\Invoice Register\obj\x86\Release\Invoice_Register.Form6.resources
+L:\Invoice Register\Invoice Register\bin\Release\Invoice Register 2.0.exe.config
+L:\Invoice Register\Invoice Register\obj\x86\Release\Invoice Register 2.0.exe
+L:\Invoice Register\Invoice Register\obj\x86\Release\Invoice Register 2.0.xml
+L:\Invoice Register\Invoice Register\obj\x86\Release\Invoice Register 2.0.pdb
+L:\Invoice Register\Invoice Register\bin\Release\Invoice Register DataBase.accdb
+L:\Invoice Register\Invoice Register\bin\Release\Invoice Register 2.0.exe
+L:\Invoice Register\Invoice Register\bin\Release\Invoice Register 2.0.pdb
+L:\Invoice Register\Invoice Register\bin\Release\Invoice Register 2.0.xml
+L:\Invoice Register\Invoice Register\obj\x86\Release\Invoice Register.vbprojResolveAssemblyReference.cache
+L:\Invoice Register\Invoice Register\obj\x86\Release\Invoice_Register.Form1.resources
+L:\Invoice Register\Invoice Register\obj\x86\Release\Invoice_Register.Form2.resources
+L:\Invoice Register\Invoice Register\obj\x86\Release\Invoice_Register.Form3.resources
+L:\Invoice Register\Invoice Register\obj\x86\Release\Invoice_Register.Form4.resources
+L:\Invoice Register\Invoice Register\obj\x86\Release\Invoice_Register.Form5.resources
+L:\Invoice Register\Invoice Register\obj\x86\Release\Invoice_Register.Form6.resources
+L:\Invoice Register\Invoice Register\obj\x86\Release\Invoice_Register.Resources.resources
+L:\Invoice Register\Invoice Register\obj\x86\Release\Invoice Register.vbproj.GenerateResource.Cache
+D:\My Projects\New folder\Invoice Register\Invoice Register\bin\Release\Invoice Register 2.0.exe.config
+D:\My Projects\New folder\Invoice Register\Invoice Register\obj\x86\Release\Invoice Register 2.0.exe
+D:\My Projects\New folder\Invoice Register\Invoice Register\obj\x86\Release\Invoice Register 2.0.xml
+D:\My Projects\New folder\Invoice Register\Invoice Register\obj\x86\Release\Invoice Register 2.0.pdb
+D:\My Projects\New folder\Invoice Register\Invoice Register\obj\x86\Release\Invoice Register.vbprojResolveAssemblyReference.cache
+D:\My Projects\New folder\Invoice Register\Invoice Register\obj\x86\Release\Invoice_Register.Form1.resources
+D:\My Projects\New folder\Invoice Register\Invoice Register\obj\x86\Release\Invoice_Register.Form2.resources
+D:\My Projects\New folder\Invoice Register\Invoice Register\obj\x86\Release\Invoice_Register.Form3.resources
+D:\My Projects\New folder\Invoice Register\Invoice Register\obj\x86\Release\Invoice_Register.Form4.resources
+D:\My Projects\New folder\Invoice Register\Invoice Register\obj\x86\Release\Invoice_Register.Form5.resources
+D:\My Projects\New folder\Invoice Register\Invoice Register\obj\x86\Release\Invoice_Register.Form6.resources
+D:\My Projects\New folder\Invoice Register\Invoice Register\obj\x86\Release\Invoice_Register.Resources.resources
+D:\My Projects\New folder\Invoice Register\Invoice Register\obj\x86\Release\Invoice Register.vbproj.GenerateResource.Cache
+D:\Athur C Clark\Invoice Register\Invoice Register\bin\Release\Invoice Register 2.0.exe.config
+D:\Athur C Clark\Invoice Register\Invoice Register\obj\x86\Release\Invoice Register 2.0.exe
+D:\Athur C Clark\Invoice Register\Invoice Register\obj\x86\Release\Invoice Register 2.0.xml
+D:\Athur C Clark\Invoice Register\Invoice Register\obj\x86\Release\Invoice Register 2.0.pdb
+D:\Athur C Clark\Invoice Register\Invoice Register\obj\x86\Release\Invoice Register.vbprojResolveAssemblyReference.cache
+D:\Athur C Clark\Invoice Register\Invoice Register\obj\x86\Release\Invoice_Register.Form1.resources
+D:\Athur C Clark\Invoice Register\Invoice Register\obj\x86\Release\Invoice_Register.Form2.resources
+D:\Athur C Clark\Invoice Register\Invoice Register\obj\x86\Release\Invoice_Register.Form3.resources
+D:\Athur C Clark\Invoice Register\Invoice Register\obj\x86\Release\Invoice_Register.Form4.resources
+D:\Athur C Clark\Invoice Register\Invoice Register\obj\x86\Release\Invoice_Register.Form5.resources
+D:\Athur C Clark\Invoice Register\Invoice Register\obj\x86\Release\Invoice_Register.Form6.resources
+D:\Athur C Clark\Invoice Register\Invoice Register\obj\x86\Release\Invoice_Register.Resources.resources
+D:\Athur C Clark\Invoice Register\Invoice Register\obj\x86\Release\Invoice Register.vbproj.GenerateResource.Cache

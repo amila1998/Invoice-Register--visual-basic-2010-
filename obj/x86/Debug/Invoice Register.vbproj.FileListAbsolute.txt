@@ -1,0 +1,15 @@
+C:\Users\Amila Devin\Desktop\Invoice Register\Invoice Register\bin\Debug\Invoice Register.exe
+C:\Users\Amila Devin\Desktop\Invoice Register\Invoice Register\bin\Debug\Invoice Register.pdb
+C:\Users\Amila Devin\Desktop\Invoice Register\Invoice Register\bin\Debug\Invoice Register.xml
+C:\Users\Amila Devin\Desktop\Invoice Register\Invoice Register\obj\x86\Debug\Invoice_Register.Form1.resources
+C:\Users\Amila Devin\Desktop\Invoice Register\Invoice Register\obj\x86\Debug\Invoice_Register.Resources.resources
+C:\Users\Amila Devin\Desktop\Invoice Register\Invoice Register\obj\x86\Debug\Invoice Register.vbproj.GenerateResource.Cache
+C:\Users\Amila Devin\Desktop\Invoice Register\Invoice Register\obj\x86\Debug\Invoice Register.exe
+C:\Users\Amila Devin\Desktop\Invoice Register\Invoice Register\obj\x86\Debug\Invoice Register.xml
+C:\Users\Amila Devin\Desktop\Invoice Register\Invoice Register\obj\x86\Debug\Invoice Register.pdb
+C:\Users\Amila Devin\Desktop\Invoice Register\Invoice Register\bin\Debug\Invoice Register DataBase.accdb
+C:\Users\Amila Devin\Desktop\Invoice Register\Invoice Register\bin\Debug\Invoice Register.exe.config
+C:\Users\Amila Devin\Desktop\Invoice Register\Invoice Register\obj\x86\Debug\Invoice_Register.Form2.resources
+C:\Users\Amila Devin\Desktop\Invoice Register\Invoice Register\obj\x86\Debug\Invoice_Register.Form3.resources
+C:\Users\Amila Devin\Desktop\Invoice Register\Invoice Register\obj\x86\Debug\Invoice_Register.Form4.resources
+C:\Users\Amila Devin\Desktop\Invoice Register\Invoice Register\obj\x86\Debug\Invoice_Register.Form5.resources
